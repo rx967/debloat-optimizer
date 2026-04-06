@@ -1,4 +1,4 @@
-:: Rx&Source max debloat&fps-
+:: :: Rx&Source max debloat&fps--
 @echo off
 :: Check if the script is running as admin
 openfiles >nul 2>&1
